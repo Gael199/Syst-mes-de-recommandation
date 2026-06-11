@@ -1,5 +1,7 @@
 # RecoSys
 
+**Application en ligne** : https://syst-mes-de-recommandation-d5gzkcctvqut6krkkcuvrg.streamlit.app/
+
 Application interactive développée avec **Streamlit** pour comparer plusieurs approches de **systèmes de recommandation** sur une matrice de notes utilisateur-item.
 
 L’application met en parallèle quatre méthodes de recommandation :
