@@ -1,4 +1,4 @@
-# RecoSys_Eudes_Chenny
+# RecoSys
 
 Application interactive développée avec **Streamlit** pour comparer plusieurs approches de **systèmes de recommandation** sur une matrice de notes utilisateur-item.
 
